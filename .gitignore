@@ -1,0 +1,43 @@
+# Android
+*.apk
+*.ap_
+*.dex
+*.class
+/.gradle/
+# gradlew is needed for building
+# /gradlew
+# /gradlew.bat
+/local.properties
+/.idea/
+/.vscode/
+/build/
+/app/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+.remember/
+
+# Special files to ignore
+.bash_profile
+.bashrc
+.gitconfig
+.gitmodules
+.idea
+.mcp.json
+.profile
+.ripgreprc
+.zprofile
+.zshrc
